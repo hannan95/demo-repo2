@@ -10,3 +10,4 @@ Watch tutorial on Youtube
 
 1. Open index.html in your browswer.
 
+## Some new changes that I made
